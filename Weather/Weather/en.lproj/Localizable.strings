@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Raju on 20/09/24.
+  
+*/
+
+"Enter US City" = "Enter US City";
+"Search" = "Search";
+"SearchButton" = "Search";
+"SearchButtonTap" = "Tap Search Button to fetch weather data";
+"Temperature" = "Temperature";
+"Humidity" = "Humidity";
+"Condition" = "Condition";
+"ErrorMessage" = "Unable to find weather for this location. Try again";
